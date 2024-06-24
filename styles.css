@@ -1,0 +1,21 @@
+* {
+    box-sizing: border-box;
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 2px;
+    color: darkslategray;
+}
+
+h1{
+    text-decoration: underline;
+}
+
+h2{
+    text-decoration: underline;
+}
+
+li{
+    font-size: 2vh;
+    color: firebrick;
+    margin-left: 50px;
+}
+
